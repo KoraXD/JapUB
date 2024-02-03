@@ -1,6 +1,7 @@
 import os
 import sys
 import time
+from pyrogram import Client as PyroClient
 from telethon.sessions import StringSession
 from telethon import TelegramClient
 from JapaneseX.uniborgConfig import Config
