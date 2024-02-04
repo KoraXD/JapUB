@@ -1,6 +1,7 @@
 {
-    "name": "x ᴜꜱᴇᴇʀʙᴏᴛ",
+    "name": "ᴊᴀᴘᴀɴᴇꜱᴇ x ᴜꜱᴇʀʙᴏᴛ",
     "description": "ᴀɴ ꜰɪʀꜱᴛ ᴛᴇʟᴇɢʀᴀᴍ ᴜꜱᴇʀʙᴏᴛ ᴡɪᴛʜ ᴍᴜʟᴛɪ ᴄʟɪᴇɴᴛꜱ ꜰᴏʀ ꜱᴘᴀᴍᴍɪɴɢ ᴏʀ ᴍᴀꜱꜱ.",
+    "logo": "https://graph.org/file/20dfb9254206184957de5.jpg",
     "keywords": ["pyrogram", "userbot"],
     "repository": "https://github.com/Japanese-Userbot/Japanese-X-Userbot",
   "stack": "container",
