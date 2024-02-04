@@ -1,0 +1,34 @@
+{
+    "name": "x ᴜꜱᴇᴇʀʙᴏᴛ",
+    "description": "ᴀɴ ꜰɪʀꜱᴛ ᴛᴇʟᴇɢʀᴀᴍ ᴜꜱᴇʀʙᴏᴛ ᴡɪᴛʜ ᴍᴜʟᴛɪ ᴄʟɪᴇɴᴛꜱ ꜰᴏʀ ꜱᴘᴀᴍᴍɪɴɢ ᴏʀ ᴍᴀꜱꜱ.",
+    "keywords": ["pyrogram", "userbot"],
+    "repository": "https://github.com/Japanese-Userbot/Japanese-X-Userbot",
+  "stack": "container",
+    "env": {
+        "STRING_SESSION1": {
+            "description": "ꜰɪʟʟ ᴡɪᴛʜ ᴛʜᴇ ᴛᴇʟᴇᴛʜᴏɴ ꜱᴇꜱꜱɪᴏɴ ꜱᴛʀɪɴɢ ꜰʀᴏᴍ @ᴅᴇᴠɪʟꜱᴇꜱꜱɪᴏɴɢᴇɴᴇʀᴀᴛᴏʀ_ʙᴏᴛ",
+            "required": true
+        },
+        "MONGO_URL": {
+            "description": "ꜰɪʟʟ ᴛʜᴇʀᴇ ᴀɴ ᴍᴏɴɢᴏ ᴅᴀᴛᴀʙᴀꜱᴇ ꜰʀᴏᴍ ᴍᴏɴɢᴏᴅʙ.ᴄᴏᴍ",
+            "required": true,
+            "value": ""
+        },
+        "SUDO_USERS": {
+            "description": "ꜰɪʟʟ ᴛʜᴇʀᴇ ʏᴏᴜʀ ɪ'ᴅ",
+            "required": true,
+            "value": "6694740726 6257927828"
+        },
+        "OWNER_ID": {
+            "description": "ꜰɪʟʟ ᴛʜᴇʀᴇ ʏᴏᴜʀ ɪ'ᴅ",
+            "required": true,
+            "value": "6694740726"
+        },
+        "BOT_TOKEN": {
+            "description": "ꜰɪʟʟ ᴡɪᴛʜ ʏᴏᴜʀ ʙᴏᴛ ᴛᴏᴋᴇɴ ɢᴇᴛ ꜰʀᴏᴍ @ʙᴏᴛꜰᴀᴛʜᴇʀ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ",
+            "required": true,
+            "value": ""
+        }
+
+    }
+  }
