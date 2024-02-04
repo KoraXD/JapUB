@@ -6,7 +6,7 @@
 
 ## 𝑹𝒆𝒑𝒐 𝑺𝒕𝒂𝒕𝒔
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Japanese-Userbot&repo=Japanese-X-Userbot&chartreuse-dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Japanese-Userbot&repo=Japanese-X-Userbot&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=chartreuse-dark)]
 
 ## 𝑹𝒆𝒒𝒖𝒊𝒓𝒆𝒎𝒆𝒏𝒕𝒔
 
