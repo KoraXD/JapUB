@@ -2,7 +2,7 @@
 
 <p align="center">𝑱𝒂𝒑𝒂𝒏𝒆𝒔𝒆 𝒙 𝑼𝒔𝒆𝒓𝒃𝒐𝒕</p>
 
-<p align="center"><a href="https://t.me/TeamJapaneseXUserbot"><img src="https://graph.org/file/20dfb9254206184957de5.jpg" width="3000"></a></p>
+<p align="center"><a href="https://t.me/TeamJapaneseXUserbot"><img src="https://mallucampaign.in/images/img_1707066296.jpg" width="3000"></a></p>
 
 ## 𝑹𝒆𝒑𝒐 𝑺𝒕𝒂𝒕𝒔
 
