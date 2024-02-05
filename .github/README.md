@@ -42,7 +42,7 @@
 ## 𝑽𝒂𝒓𝒊𝒂𝒃𝒍𝒆𝒔
 - `APP_ID`  =  Get this value from [my.telegram.org](https://my.telegram.org/auth)
 - `API_HASH`  =  Get this value from [my.telegram.org](https://my.telegram.org/auth)
-- `STRING_SESSION1` = Get this telethon string session from [ᴅᴇᴠɪʟꜱᴇꜱꜱɪᴏɴɢᴇɴᴇʀᴀᴛᴏʀ_ʙᴏᴛ](https://t.me/DevilSessionGenerator_Bot)
+- `STRING_SESSION1` = Get this telethon string session from [ᴅᴇᴠɪʟꜱᴇꜱꜱɪᴏɴɢᴇɴᴇʀᴀᴛᴏʀ_ʙᴏᴛ](https://t.me/DevilSessionGenerator_Bot) or [Run on Replit](https://replit.com/@nobitaaxd99/Japanese-X-Userbot#main.py)
 - `BOT_TOKEN`  =  Make A Bot From [@BotFather](https://t.me/botfather) and paste it's token.
 - `HANDLER`  =  Your command handler.
 - `OWNER_ID` = Your I'd 
