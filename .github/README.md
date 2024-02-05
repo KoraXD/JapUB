@@ -33,6 +33,14 @@
 
 <p align="center"><a href="http://dashboard.heroku.com/new?template=https://github.com/Japanese-Userbot/Japanese-X-Userbot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-purple?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
+
+## 𝑽𝒂𝒓𝒊𝒂𝒃𝒍𝒆𝒔
+- `APP_ID`  =  Get this value from my.telegram.org
+- `API_HASH`  =  Get this value from my.telegram.org
+- `JAPANESEXUSERBOT_SESSION`  =  Click here for Generate String Session [𝑺𝒕𝒓𝒊𝒏𝒈 𝑺𝒆𝒔𝒔𝒊𝒐𝒏](https://t.me/DevilSessionGenerator_Bot)
+- `BOT_TOKEN`  =  Make A Bot From [@BotFather](https://t.me/botfather) and paste it's token.
+- `HANDLER`  =  Your command handler.
+
 ## 𝑭𝒆𝒂𝒕𝒖𝒓𝒆𝒔
 
 - *Spamming!*
