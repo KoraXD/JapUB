@@ -37,10 +37,7 @@
 
 <p align="center"><a href="https://t.me/DevilSessionGenerator_Bot"> <img src="https://img.shields.io/badge/String%20Session-black?style=for-the-badge&logo=telegrambot" width="220" height="38.45"/></a></p>
 
-<p align="center">  
-<a href="https://replit.com/@nobitaaxd99/Japanese-X-Userbot#main.py"><img src="https://img.shields.io/badge/Run%20On%20Repl-darkred?style=for-the-badge&logo=telegrambot" width="200""/></a>
-</p>
-
+<p align="center"><a href="https://replit.com/@nobitaaxd99/Japanese-X-Userbot#main.py"> <img src="https://img.shields.io/badge/String%20Session-black?style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
 
 ## 𝑫𝒆𝒑𝒍𝒐𝒚𝒎𝒆𝒏𝒕
 
@@ -118,25 +115,16 @@ and you ended up in a Finale Battle with Telegram and at the end
 
 <p align="center"><a href="https://t.me/Japanese_Userbot"><img src="https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-𝐔𝐩𝐝𝐚𝐭𝐞𝐬-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 𝑺𝒑𝒆𝒄𝒊𝒂𝒍 𝑪𝒓𝒆𝒅𝒊𝒕❤️✨
 
-<h3 align="center">
-    ─「 ᴄʀᴇᴅɪᴛs 」─
-</h3>
-
-  ➻ <p align="center"> ➻ [⏤‌〲Dᴇᴠɪʟ˹ᴀꜰᴋ˼](https://github.com/VARC9210) 
+- [⏤‌〲Dᴇᴠɪʟ˹ᴀꜰᴋ˼](https://github.com/VARC9210) 
 
 
   ## 𝑶𝒕𝒉𝒆𝒓 𝑪𝒓𝒆𝒅𝒊𝒕❤️✨
-
-
- <h3 align="center"> ─「 ᴄʀᴇᴅɪᴛs 」─
   
- ➻ <p align="center"> ➻ [𝐍𝐎𝐁𝐈𝐓𝐀_𝐗𝐃](https://github.com/nobitaaxd)  
-  ➻ <b>[Sʀᴇʏᴀɴ](https://github.com/its-sreyan) 
-  ➻ <b>[꧁☆☬𝐒𝐀𝐍𝐃𝐄𝐄𝐏_𝐒𝐇𝐀𝐑𝐌𝐀☬☆꧂](https://github.com/SandeepLegendpro) </b> ➻ <b>[sᴏᴍᴇᴛʜɪɴɢ](https://github.com/Japanese-Userbot/Japanese-X-Userbot) </b>
+- [𝐍𝐎𝐁𝐈𝐓𝐀_𝐗𝐃](https://github.com/nobitaaxd)  
+- [Sʀᴇʏᴀɴ](https://github.com/its-sreyan) 
+- [꧁☆☬𝐒𝐀𝐍𝐃𝐄𝐄𝐏_𝐒𝐇𝐀𝐑𝐌𝐀☬☆꧂](https://github.com/SandeepLegendpro) </b> ➻ <b>[sᴏᴍᴇᴛʜɪɴɢ](https://github.com/Japanese-Userbot/Japanese-X-Userbot) </b>
   
 <b> ➻ <b> ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://github.com/Japanese-Userbot/Japanese-X-Userbot/graphs/contributors) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ 𝐉𝐚𝐩𝐚𝐧𝐞𝐬𝐞 𝐗 𝐔𝐬𝐞𝐫𝐛𝐨𝐭 ᴜsᴇғᴜʟ & ᴩᴏᴡᴇʀғᴜʟ ❤️✨ </b>
 
@@ -145,3 +133,5 @@ and you ended up in a Finale Battle with Telegram and at the end
 
 ## 𝐂𝐨𝐩𝐲𝐫𝐢𝐠𝐡𝐭(𝐂) 2024 𝐁𝐲 𝐓𝐞𝐚𝐦 𝐉𝐚𝐩𝐚𝐧𝐞𝐬𝐞 𝐗 𝐔𝐬𝐞𝐫𝐛𝐨𝐭 𝐟𝐨𝐫 𝐉𝐚𝐩𝐚𝐧𝐞𝐬𝐞 𝐗 𝐔𝐬𝐞𝐫𝐛𝐨𝐭 ❤️✨
    [𝑱𝒂𝒑𝒂𝒏𝒆𝒔𝒆 𝒙 𝑼𝒔𝒆𝒓𝒃𝒐𝒕](https://github.com/Japanese-Userbot/Japanese-X-Userbot)
+   
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
