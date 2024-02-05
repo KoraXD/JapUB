@@ -58,7 +58,7 @@
 - *Id Safety Specially For Fake accounts*
 
 ## 𝑫𝒆𝒑𝒍𝒐𝒚 𝒕𝒐 𝑶𝒌𝒕𝒆𝒕𝒐
-Get the [Necessary Variables](#Necessary-Variables) and then click the button below!
+Get the [Necessary Variables](https://t.me/Japanese_Userbot_Chat/4304) and then click the button below!
 
 [![𝑫𝒆𝒑𝒍𝒐𝒚 𝒐𝒏 𝑶𝒌𝒕𝒆𝒕𝒐](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy?repository=https://github.com/Japanese-Userbot/Japanese-X-Userbot)
 
