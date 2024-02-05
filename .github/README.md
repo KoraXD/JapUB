@@ -115,12 +115,17 @@ and you ended up in a Finale Battle with Telegram and at the end
     ─「 ᴄʀᴇᴅɪᴛs 」─
 </h3>
 
-➻ <b>[⏤‌〲Dᴇᴠɪʟ˹ᴀꜰᴋ˼](https://github.com/VARC9210) ➻ <b>[𝐍𝐎𝐁𝐈𝐓𝐀_𝐗𝐃](https://github.com/nobitaaxd)  
-
- ➻  [Sʀᴇʏᴀɴ](https://github.com/its-sreyan) ➻ <b>[꧁☆☬𝐒𝐀𝐍𝐃𝐄𝐄𝐏_𝐒𝐇𝐀𝐑𝐌𝐀☬☆꧂](https://github.com/SandeepLegendpro) </b> ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://github.com/Japanese-Userbot/Japanese-X-Userbot) </b>
+  ➻ <p align="center">[⏤‌〲Dᴇᴠɪʟ˹ᴀꜰᴋ˼](https://github.com/VARC9210) 
 
 
-<b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://github.com/Japanese-Userbot/Japanese-X-Userbot/graphs/contributors) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ 𝐉𝐚𝐩𝐚𝐧𝐞𝐬𝐞 𝐗 𝐔𝐬𝐞𝐫𝐛𝐨𝐭 ᴜsᴇғᴜʟ & ᴩᴏᴡᴇʀғᴜʟ 🖤 </b>
+  ## 𝑶𝒕𝒉𝒆𝒓 𝑪𝒓𝒆𝒅𝒊𝒕❤️✨
+
+  
+  ➻ <p align="center">[𝐍𝐎𝐁𝐈𝐓𝐀_𝐗𝐃](https://github.com/nobitaaxd)  
+  ➻ <b>[Sʀᴇʏᴀɴ](https://github.com/its-sreyan) 
+  ➻ <b>[꧁☆☬𝐒𝐀𝐍𝐃𝐄𝐄𝐏_𝐒𝐇𝐀𝐑𝐌𝐀☬☆꧂](https://github.com/SandeepLegendpro) </b> ➻ <b>[sᴏᴍᴇᴛʜɪɴɢ](https://github.com/Japanese-Userbot/Japanese-X-Userbot) </b>
+  
+<b> ➻ <b> ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://github.com/Japanese-Userbot/Japanese-X-Userbot/graphs/contributors) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ 𝐉𝐚𝐩𝐚𝐧𝐞𝐬𝐞 𝐗 𝐔𝐬𝐞𝐫𝐛𝐨𝐭 ᴜsᴇғᴜʟ & ᴩᴏᴡᴇʀғᴜʟ 🖤 </b>
 
 ━━━━━━━━━━━━━━━━━━━━
 
