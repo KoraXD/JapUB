@@ -22,14 +22,14 @@
 ꜰᴏʀ ᴍᴀɴɢᴏ ᴅʙ ᴜʀʟ [ᴄʟɪᴄᴋ ᴍᴇ](https://youtu.be/mnvjt_a5JYA)
 
 ## 𝑽𝒂𝒓𝒊𝒂𝒃𝒍𝒆𝒔
-- `APP_ID`  =  Get this value from [my.telegram.org](https://my.telegram.org/auth)
-- `API_HASH`  =  Get this value from [my.telegram.org](https://my.telegram.org/auth)
-- `STRING_SESSION1` = Get this telethon string session from [ᴅᴇᴠɪʟꜱᴇꜱꜱɪᴏɴɢᴇɴᴇʀᴀᴛᴏʀ_ʙᴏᴛ](https://t.me/DevilSessionGenerator_Bot) or [Run on Replit](https://replit.com/@nobitaaxd99/Japanese-X-Userbot#main.py)
-- `BOT_TOKEN`  =  Make A Bot From [@BotFather](https://t.me/botfather) and paste it's token.
-- `HANDLER`  =  Your command handler.
-- `OWNER_ID` = Your I'd 
-- `SUDO_USERS` = Your Sudo User I'd 
-- `MONGO_URL` = Get this value from Mongo Database from [Mongodb.com](https://www.mongodb.com/)
+- `APP_ID`  =  𝑮𝒆𝒕 𝒕𝒉𝒊𝒔 𝒗𝒂𝒍𝒖𝒆 𝒇𝒓𝒐𝒎 [my.telegram.org](https://my.telegram.org/auth)
+- `API_HASH`  =  𝑮𝒆𝒕 𝒕𝒉𝒊𝒔 𝒗𝒂𝒍𝒖𝒆 𝒇𝒓𝒐𝒎 [my.telegram.org](https://my.telegram.org/auth)
+- `STRING_SESSION1` = 𝑮𝒆𝒕 𝒕𝒉𝒊𝒔 𝒕𝒆𝒍𝒆𝒕𝒉𝒐𝒏 𝒔𝒕𝒓𝒊𝒏𝒈 𝒔𝒆𝒔𝒔𝒊𝒐𝒏 𝒇𝒓𝒐𝒎 [ᴅᴇᴠɪʟꜱᴇꜱꜱɪᴏɴɢᴇɴᴇʀᴀᴛᴏʀ_ʙᴏᴛ](https://t.me/DevilSessionGenerator_Bot) or [𝑹𝒖𝒏 𝒐𝒏 𝑹𝒆𝒑𝒍𝒊𝒕](https://replit.com/@nobitaaxd99/Japanese-X-Userbot#main.py)
+- `BOT_TOKEN`  =  𝑴𝒂𝒌𝒆 𝑨 𝑩𝒐𝒕 𝑭𝒓𝒐𝒎 [@BotFather](https://t.me/botfather) 𝒂𝒏𝒅 𝒑𝒂𝒔𝒕𝒆 𝒊𝒕'𝒔 𝒕𝒐𝒌𝒆𝒏.
+- `HANDLER`  =  𝒀𝒐𝒖𝒓 𝒄𝒐𝒎𝒎𝒂𝒏𝒅 𝒉𝒂𝒏𝒅𝒍𝒆𝒓.
+- `OWNER_ID` = 𝒀𝒐𝒖𝒓 𝑰'𝒅 
+- `SUDO_USERS` = 𝒀𝒐𝒖𝒓 𝑺𝒖𝒅𝒐 𝑼𝒔𝒆𝒓 𝑰'𝒅 
+- `MONGO_URL` = 𝑮𝒆𝒕 𝒕𝒉𝒊𝒔 𝒗𝒂𝒍𝒖𝒆 𝒇𝒓𝒐𝒎 𝑴𝒐𝒏𝒈𝒐 𝑫𝒂𝒕𝒂𝒃𝒂𝒔𝒆 𝒇𝒓𝒐𝒎 [𝑴𝒐𝒏𝒈𝒐𝒅𝒃.𝒄𝒐𝒎](https://www.mongodb.com/)
 
 
 
