@@ -35,11 +35,15 @@
 
 
 ## 𝑽𝒂𝒓𝒊𝒂𝒃𝒍𝒆𝒔
-- `APP_ID`  =  Get this value from my.telegram.org
-- `API_HASH`  =  Get this value from my.telegram.org
-- `JAPANESEXUSERBOT_SESSION`  =  Click here for Generate String Session [𝑺𝒕𝒓𝒊𝒏𝒈 𝑺𝒆𝒔𝒔𝒊𝒐𝒏](https://t.me/DevilSessionGenerator_Bot)
+- `APP_ID`  =  Get this value from [my.telegram.org](https://my.telegram.org/auth)
+- `API_HASH`  =  Get this value from [my.telegram.org](https://my.telegram.org/auth)
+- `STRING_SESSION1` = Get this telethon string session from [ᴅᴇᴠɪʟꜱᴇꜱꜱɪᴏɴɢᴇɴᴇʀᴀᴛᴏʀ_ʙᴏᴛ](https://t.me/DevilSessionGenerator_Bot)
 - `BOT_TOKEN`  =  Make A Bot From [@BotFather](https://t.me/botfather) and paste it's token.
 - `HANDLER`  =  Your command handler.
+- `OWNER_ID` = Your I'd 
+- `SUDO_USERS` = Your Sudo User I'd 
+- `MONGO_URL` = Get this value from Mongo Database from [Mongodb.com](https://www.mongodb.com/)
+
 
 ## 𝑭𝒆𝒂𝒕𝒖𝒓𝒆𝒔
 
