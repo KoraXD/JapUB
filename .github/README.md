@@ -4,6 +4,10 @@
 
 <p align="center"><a href="https://t.me/TeamJapaneseXUserbot"><img src="https://mallucampaign.in/images/img_1707066296.jpg" width="3000"></a></p>
 
+<h3 align="center">
+  <b> ωσяℓ∂ ℓαяgεsт αη∂ ғαsтεsт υsεявσт ηεvεя εxιsтε∂ ιη тнιs ωσяℓ∂ мσsт ρσωεяғυℓ αη∂ υℓтιмαтε α∂vαηcε 𝐉𝐚𝐩𝐚𝐧𝐞𝐬𝐞 𝐗 𝐔𝐬𝐞𝐫𝐛𝐨𝐭 ❤️✨.</b>
+</h3>
+
 ## 𝑹𝒆𝒑𝒐 𝑺𝒕𝒂𝒕𝒔
 
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=Japanese-Userbot&repo=Japanese-X-Userbot&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=chartreuse-dark)
