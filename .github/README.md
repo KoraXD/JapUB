@@ -21,6 +21,18 @@
 
 ꜰᴏʀ ᴍᴀɴɢᴏ ᴅʙ ᴜʀʟ [ᴄʟɪᴄᴋ ᴍᴇ](https://youtu.be/mnvjt_a5JYA)
 
+## 𝑽𝒂𝒓𝒊𝒂𝒃𝒍𝒆𝒔
+- `APP_ID`  =  Get this value from [my.telegram.org](https://my.telegram.org/auth)
+- `API_HASH`  =  Get this value from [my.telegram.org](https://my.telegram.org/auth)
+- `STRING_SESSION1` = Get this telethon string session from [ᴅᴇᴠɪʟꜱᴇꜱꜱɪᴏɴɢᴇɴᴇʀᴀᴛᴏʀ_ʙᴏᴛ](https://t.me/DevilSessionGenerator_Bot) or [Run on Replit](https://replit.com/@nobitaaxd99/Japanese-X-Userbot#main.py)
+- `BOT_TOKEN`  =  Make A Bot From [@BotFather](https://t.me/botfather) and paste it's token.
+- `HANDLER`  =  Your command handler.
+- `OWNER_ID` = Your I'd 
+- `SUDO_USERS` = Your Sudo User I'd 
+- `MONGO_URL` = Get this value from Mongo Database from [Mongodb.com](https://www.mongodb.com/)
+
+
+
 ## 𝑺𝒕𝒓𝒊𝒏𝒈 𝑺𝒆𝒔𝒔𝒊𝒐𝒏
 
 <p align="center"><a href="https://t.me/DevilSessionGenerator_Bot"> <img src="https://img.shields.io/badge/String%20Session-black?style=for-the-badge&logo=telegrambot" width="220" height="38.45"/></a></p>
@@ -38,24 +50,18 @@
 
 <p align="center"><a href="http://dashboard.heroku.com/new?template=https://github.com/Japanese-Userbot/Japanese-X-Userbot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-purple?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
-
-## 𝑽𝒂𝒓𝒊𝒂𝒃𝒍𝒆𝒔
-- `APP_ID`  =  Get this value from [my.telegram.org](https://my.telegram.org/auth)
-- `API_HASH`  =  Get this value from [my.telegram.org](https://my.telegram.org/auth)
-- `STRING_SESSION1` = Get this telethon string session from [ᴅᴇᴠɪʟꜱᴇꜱꜱɪᴏɴɢᴇɴᴇʀᴀᴛᴏʀ_ʙᴏᴛ](https://t.me/DevilSessionGenerator_Bot) or [Run on Replit](https://replit.com/@nobitaaxd99/Japanese-X-Userbot#main.py)
-- `BOT_TOKEN`  =  Make A Bot From [@BotFather](https://t.me/botfather) and paste it's token.
-- `HANDLER`  =  Your command handler.
-- `OWNER_ID` = Your I'd 
-- `SUDO_USERS` = Your Sudo User I'd 
-- `MONGO_URL` = Get this value from Mongo Database from [Mongodb.com](https://www.mongodb.com/)
-
-
 ## 𝑭𝒆𝒂𝒕𝒖𝒓𝒆𝒔
 
 - *Spamming!*
 - *You Can deploy Upto 10 Clients At a Same Time*
 - *Almost 90+ Plugins There adding more Plugins Soon*
 - *Id Safety Specially For Fake accounts*
+
+## 𝑫𝒆𝒑𝒍𝒐𝒚 𝒕𝒐 𝑶𝒌𝒕𝒆𝒕𝒐
+Get the [Necessary Variables](#Necessary-Variables) and then click the button below!
+
+[![𝑫𝒆𝒑𝒍𝒐𝒚 𝒐𝒏 𝑶𝒌𝒕𝒆𝒕𝒐](https://okteto.com/develop-okteto.svg)](https://cloud.okteto.com/deploy?repository=https://github.com/Japanese-Userbot/Japanese-X-Userbot)
+
 
 ## 𝑫𝒆𝒑𝒍𝒐𝒚 𝑻𝒐 𝑹𝒆𝒏𝒅𝒆𝒓
 
