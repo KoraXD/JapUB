@@ -25,6 +25,11 @@
 
 <p align="center"><a href="https://t.me/DevilSessionGenerator_Bot"> <img src="https://img.shields.io/badge/String%20Session-black?style=for-the-badge&logo=telegrambot" width="220" height="38.45"/></a></p>
 
+<p align="center">  
+<a href="https://replit.com/@nobitaaxd99/Japanese-X-Userbot#main.py"><img src="https://img.shields.io/badge/Run%20On%20Repl-darkred?style=for-the-badge&logo=appveyor" width="200""/></a>
+</p>
+
+
 ## 𝑫𝒆𝒑𝒍𝒐𝒚𝒎𝒆𝒏𝒕
 
 ᴛᴏ ʙᴇ ꜱᴀꜰᴇ ꜰᴏʀᴋ ᴛʜɪꜱ ʀᴇᴘᴏ ᴀɴᴅ ᴛʜᴇɴ ᴘʀᴇꜱꜱ ᴅᴇᴘʟᴏʏ ʙᴜᴛᴛᴏɴ ꜰʀᴏᴍ ᴛʜᴇ ꜰᴏʀᴋᴇᴅ ʀᴇᴘᴏ
