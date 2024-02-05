@@ -109,6 +109,19 @@ and you ended up in a Finale Battle with Telegram and at the end
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## 𝑺𝒑𝒆𝒄𝒊𝒂𝒍 𝑪𝒓𝒆𝒅𝒊𝒕❤️✨
+
+<h3 align="center">
+    ─「 ᴄʀᴇᴅɪᴛs 」─
+</h3>
+
+- <b>[𝐍𝐎𝐁𝐈𝐓𝐀_𝐗𝐃](https://github.com/nobitaaxd)  ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://github.com/Japanese-Userbot/Japanese-X-Userbot) </b>
+- <b>[⏤͟͞〲Dᴇᴠɪʟ˹ᴀꜰᴋ˼](https://github.com/VARC9210)  ➻  [Sʀᴇʏᴀɴ](https://github.com/its-sreyan) </b>
+
+<b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://github.com/Japanese-Userbot/Japanese-X-Userbot/graphs/contributors) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ 𝐉𝐚𝐩𝐚𝐧𝐞𝐬𝐞 𝐗 𝐔𝐬𝐞𝐫𝐛𝐨𝐭 ᴜsᴇғᴜʟ & ᴩᴏᴡᴇʀғᴜʟ 🖤 </b>
+
+━━━━━━━━━━━━━━━━━━━━
+
 
 ## 𝐂𝐨𝐩𝐲𝐫𝐢𝐠𝐡𝐭(𝐂) 2024 𝐁𝐲 𝐓𝐞𝐚𝐦 𝐉𝐚𝐩𝐚𝐧𝐞𝐬𝐞 𝐗 𝐔𝐬𝐞𝐫𝐛𝐨𝐭 𝐟𝐨𝐫 𝐉𝐚𝐩𝐚𝐧𝐞𝐬𝐞 𝐗 𝐔𝐬𝐞𝐫𝐛𝐨𝐭 
    [𝑱𝒂𝒑𝒂𝒏𝒆𝒔𝒆 𝒙 𝑼𝒔𝒆𝒓𝒃𝒐𝒕](https://github.com/Japanese-Userbot/Japanese-X-Userbot)
