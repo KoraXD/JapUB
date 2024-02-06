@@ -31,6 +31,13 @@
 - `SUDO_USERS` = 𝒀𝒐𝒖𝒓 𝑺𝒖𝒅𝒐 𝑼𝒔𝒆𝒓 𝑰'𝒅 
 - `MONGO_URL` = 𝑮𝒆𝒕 𝒕𝒉𝒊𝒔 𝒗𝒂𝒍𝒖𝒆 𝒇𝒓𝒐𝒎 𝑴𝒐𝒏𝒈𝒐 𝑫𝒂𝒕𝒂𝒃𝒂𝒔𝒆 𝒇𝒓𝒐𝒎 [𝑴𝒐𝒏𝒈𝒐𝒅𝒃.𝒄𝒐𝒎](https://www.mongodb.com/)
 
+## 𝑭𝒆𝒂𝒕𝒖𝒓𝒆𝒔
+
+- *Spamming!*
+- *You Can deploy Upto 10 Clients At a Same Time*
+- *Almost 90+ Plugins There adding more Plugins Soon*
+- *Id Safety Specially For Fake accounts*
+
 
 
 ## 𝑺𝒕𝒓𝒊𝒏𝒈 𝑺𝒆𝒔𝒔𝒊𝒐𝒏
@@ -46,14 +53,6 @@
 ꜰᴏʀᴋ ᴅᴇᴘʟᴏʏ ɪꜱ ʜɪɢʜʟʏ ʀᴇᴄᴏᴍᴍᴇɴᴅᴇᴅ
 
 <p align="center"><a href="http://dashboard.heroku.com/new?template=https://github.com/Japanese-Userbot/Japanese-X-Userbot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-purple?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
-
-## 𝑭𝒆𝒂𝒕𝒖𝒓𝒆𝒔
-
-- *Spamming!*
-- *You Can deploy Upto 10 Clients At a Same Time*
-- *Almost 90+ Plugins There adding more Plugins Soon*
-- *Id Safety Specially For Fake accounts*
-
 
 ## 𝑫𝒆𝒑𝒍𝒐𝒚 𝑻𝒐 𝑲𝒐𝒚𝒆𝒃
 
@@ -72,6 +71,11 @@
 
 <p align="center"><a href="https://render.com/deploy?repo=https://github.com/Japanese-Userbot/Japanese-X-Userbot"> <img src="https://render.com/images/deploy-to-render-button.svg" width="220" height="38.45"/></a></p>
 
+
+## 𝑫𝒆𝒑𝒍𝒐𝒚 𝑻𝒐 𝑹𝒂𝒊𝒍𝒘𝒂𝒚
+
+<p align="center"><a href="https://railway.app//deploy?repository=https://github.com/Japanese-Userbot/Japanese-X-Userbot"> <img src="https://railway.app/button.svg" width="220" height="38.45"/></a></p>
+
 ## 𝑯𝒐𝒔𝒕𝒊𝒏𝒈 𝑾𝒊𝒕𝒉 𝑴𝒐𝒈𝒆𝒏𝒊𝒖𝒔
 
 ɪ ᴡɪʟʟ ꜱᴜɢɢᴇꜱᴛ ᴛᴏ ʜᴏꜱᴛ ᴏɴ ᴍᴏɢᴇɴɪᴜꜱ ɪꜰ ᴜʜ ᴅᴏɴ'ᴛ ᴋɴᴏᴡ ᴡʜᴀᴛ ɪꜱ ᴛʜɪꜱ ᴛʜᴇɴ
@@ -79,9 +83,7 @@
 
 <p align="center"><a href="https://youtu.be/qXT1jl60okk"> <img src="https://img.shields.io/badge/Userbot%20Deploy-black?style=for-the-badge&logo=youtube" width="220" height="38.45"/></a></p>
 
-## 𝑫𝒆𝒑𝒍𝒐𝒚 𝑻𝒐 𝑹𝒂𝒊𝒍𝒘𝒂𝒚
 
-<p align="center"><a href="https://railway.app//deploy?repository=https://github.com/Japanese-Userbot/Japanese-X-Userbot"> <img src="https://railway.app/button.svg" width="220" height="38.45"/></a></p>
 
 ## 𝑽𝑷𝑺/𝑳𝒐𝒄𝒂𝒍𝒍𝒚 𝒅𝒆𝒑𝒍𝒐𝒚
 
