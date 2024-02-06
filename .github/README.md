@@ -54,6 +54,13 @@
 - *Almost 90+ Plugins There adding more Plugins Soon*
 - *Id Safety Specially For Fake accounts*
 
+
+## 𝑫𝒆𝒑𝒍𝒐𝒚 𝑻𝒐 𝑲𝒐𝒚𝒆𝒃
+
+<p align="center"> 
+  
+   [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Japanese-Userbot/Japanese-X-Userbot&branch=main&name=Japanese-X-Userbot)
+
 ## 𝑫𝒆𝒑𝒍𝒐𝒚 𝒕𝒐 𝑶𝒌𝒕𝒆𝒕𝒐
 
 𝑮𝒆𝒕 𝒕𝒉𝒆 [𝑵𝒆𝒄𝒆𝒔𝒔𝒂𝒓𝒚 𝑽𝒂𝒓𝒊𝒂𝒃𝒍𝒆𝒔](https://t.me/Japanese_Userbot_Chat/4304) 𝒂𝒏𝒅 𝒕𝒉𝒆𝒏 𝒄𝒍𝒊𝒄𝒌 𝒕𝒉𝒆 𝒃𝒖𝒕𝒕𝒐𝒏 𝒃𝒆𝒍𝒐𝒘!
