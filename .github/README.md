@@ -33,13 +33,6 @@
 - `SUDO_USERS` = 𝒀𝒐𝒖𝒓 𝑺𝒖𝒅𝒐 𝑼𝒔𝒆𝒓 𝑰'𝒅 
 - `MONGO_URL` = 𝑮𝒆𝒕 𝒕𝒉𝒊𝒔 𝒗𝒂𝒍𝒖𝒆 𝒇𝒓𝒐𝒎 𝑴𝒐𝒏𝒈𝒐 𝑫𝒂𝒕𝒂𝒃𝒂𝒔𝒆 𝒇𝒓𝒐𝒎 [𝑴𝒐𝒏𝒈𝒐𝒅𝒃.𝒄𝒐𝒎](https://www.mongodb.com/)
 
-## 𝑭𝒆𝒂𝒕𝒖𝒓𝒆𝒔
-
-- *Spamming!*
-- *You Can deploy Upto 10 Clients At a Same Time*
-- *Almost 590+ Plugins There adding more Plugins Soon*
-- *Id Safety Specially For Fake accounts*
-
 
 ## 𝑺𝒕𝒓𝒊𝒏𝒈 𝑺𝒆𝒔𝒔𝒊𝒐𝒏
 
@@ -150,6 +143,6 @@ and you ended up in a Finale Battle with Telegram and at the end
 
 
 ## 𝐂𝐨𝐩𝐲𝐫𝐢𝐠𝐡𝐭(𝐂) 2024 𝐁𝐲 𝐓𝐞𝐚𝐦 𝐉𝐚𝐩𝐚𝐧𝐞𝐬𝐞 𝐗 𝐔𝐬𝐞𝐫𝐛𝐨𝐭 𝐟𝐨𝐫 𝐉𝐚𝐩𝐚𝐧𝐞𝐬𝐞 𝐗 𝐔𝐬𝐞𝐫𝐛𝐨𝐭 ❤️✨
-   [𝑱𝒂𝒑𝒂𝒏𝒆𝒔𝒆 𝒙 𝑼𝒔𝒆𝒓𝒃𝒐𝒕](https://github.com/Japanese-Userbot/Japanese-X-Userbot)
+   [𝑱𝒂𝒑𝒂𝒏𝒆𝒔𝒆 𝒙 𝑼𝒔𝒆𝒓𝒃𝒐𝒕❤️✨](https://github.com/Japanese-Userbot/Japanese-X-Userbot)
    
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
