@@ -3,7 +3,7 @@ flask_restful
 aiohttp
 aiofiles
 bs4
-googlesearch-python==1.0.1
+googlesearch-python==1.2.3
 gitpython
 humanize
 httpx
