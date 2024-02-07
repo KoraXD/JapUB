@@ -1,12 +1,16 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+    <b>ᴠɪsɪᴛᴏʀs</b><br>
+ -->    <img align="middle" src="https://profile-counter.glitch.me/Japanese-X-Userbot/count.svg" />
+</p>
 
-<p align="center">𝑱𝒂𝒑𝒂𝒏𝒆𝒔𝒆 𝑿 𝑼𝒔𝒆𝒓𝒃𝒐𝒕</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&lines=ωσяℓ∂+ℓαяgεsт+αη∂+ғαsтεsт+υsεявσт;ηεvεя+εxιsтε∂+ιη+тнιs+ωσяℓ∂.;+𝐉𝐚𝐩𝐚𝐧𝐞𝐬𝐞+𝐗++𝐔𝐬𝐞𝐫𝐛𝐨𝐭+❤️✨+%E2%9D%A4%EF%B8%8F">
+  
+
+<p align="center">𝑱𝒂𝒑𝒂𝒏𝒆𝒔𝒆 𝑿 𝑼𝒔𝒆𝒓𝒃𝒐𝒕❤️✨</p>
 
 <p align="center"><a href="https://t.me/TeamJapaneseXUserbot"><img src="https://mallucampaign.in/images/img_1707066296.jpg" width="3000"></a></p>
 
-<h3 align="center">
-  <b> ωσяℓ∂ ℓαяgεsт αη∂ ғαsтεsт υsεявσт ηεvεя εxιsтε∂ ιη тнιs ωσяℓ∂ мσsт ρσωεяғυℓ αη∂ υℓтιмαтε α∂vαηcε 𝐉𝐚𝐩𝐚𝐧𝐞𝐬𝐞 𝐗 𝐔𝐬𝐞𝐫𝐛𝐨𝐭 ❤️✨.</b>
-</h3>
 
 ## 𝑹𝒆𝒑𝒐 𝑺𝒕𝒂𝒕𝒔
 
@@ -18,8 +22,6 @@
 - *Dummy account*
 - *Python 3.8+ or 3.7*
 - *Mongo Db*
-
-ꜰᴏʀ ᴍᴀɴɢᴏ ᴅʙ ᴜʀʟ [ᴄʟɪᴄᴋ ᴍᴇ](https://youtu.be/mnvjt_a5JYA)
 
 ## 𝑽𝒂𝒓𝒊𝒂𝒃𝒍𝒆𝒔
 - `APP_ID`  =  𝑮𝒆𝒕 𝒕𝒉𝒊𝒔 𝒗𝒂𝒍𝒖𝒆 𝒇𝒓𝒐𝒎 [my.telegram.org](https://my.telegram.org/auth)
@@ -35,9 +37,8 @@
 
 - *Spamming!*
 - *You Can deploy Upto 10 Clients At a Same Time*
-- *Almost 90+ Plugins There adding more Plugins Soon*
+- *Almost 590+ Plugins There adding more Plugins Soon*
 - *Id Safety Specially For Fake accounts*
-
 
 
 ## 𝑺𝒕𝒓𝒊𝒏𝒈 𝑺𝒆𝒔𝒔𝒊𝒐𝒏
@@ -83,14 +84,6 @@ height="38.45"/></a></p>
 
 <p align="center"><a href="https://railway.app//deploy?repository=https://github.com/Japanese-Userbot/Japanese-X-Userbot"> <img src="https://railway.app/button.svg" width="220" height="38.45"/></a></p>
 
-## 𝑯𝒐𝒔𝒕𝒊𝒏𝒈 𝑾𝒊𝒕𝒉 𝑴𝒐𝒈𝒆𝒏𝒊𝒖𝒔
-
-ɪ ᴡɪʟʟ ꜱᴜɢɢᴇꜱᴛ ᴛᴏ ʜᴏꜱᴛ ᴏɴ ᴍᴏɢᴇɴɪᴜꜱ ɪꜰ ᴜʜ ᴅᴏɴ'ᴛ ᴋɴᴏᴡ ᴡʜᴀᴛ ɪꜱ ᴛʜɪꜱ ᴛʜᴇɴ
-ᴄʜᴇᴄᴋᴏᴜᴛ ᴛᴜᴛᴏʀɪᴀʟ!
-
-<p align="center"><a href="https://youtu.be/qXT1jl60okk"> <img src="https://img.shields.io/badge/Userbot%20Deploy-black?style=for-the-badge&logo=youtube" width="220" height="38.45"/></a></p>
-
-
 
 ## 𝑽𝑷𝑺/𝑳𝒐𝒄𝒂𝒍𝒍𝒚 𝒅𝒆𝒑𝒍𝒐𝒚
 
@@ -130,15 +123,15 @@ and you ended up in a Finale Battle with Telegram and at the end
     I will be rolling on the floor laughing at you.
 ```
 
-## 𝑺𝒖𝒑𝒑𝒐𝒓𝒕 / 𝑪𝒉𝒂𝒏𝒏𝒆𝒍
+## 𝑺𝒖𝒑𝒑𝒐𝒓𝒕 𝑮𝒓𝒐𝒖𝒑 / 𝑪𝒉𝒂𝒏𝒏𝒆𝒍
 
-<p align="center"><a href="https://t.me/Japanese_Userbot_Chat"><img src="https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-𝐒𝐮𝐩𝐩𝐨𝐫𝐭-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
+<p align="center"><a href="https://t.me/Japanese_Userbot_Chat"><img src="https://img.shields.io/badge/𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦-𝐒𝐮𝐩𝐩𝐨𝐫𝐭-F70000?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
 
-<p align="center"><a href="https://t.me/Japanese_Userbot"><img src="https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-𝐔𝐩𝐝𝐚𝐭𝐞𝐬-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
+<p align="center"><a href="https://t.me/Japanese_Userbot"><img src="https://img.shields.io/badge/𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦-𝐔𝐩𝐝𝐚𝐭𝐞𝐬-F70000?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
 
 ## 𝑺𝒑𝒆𝒄𝒊𝒂𝒍 𝑪𝒓𝒆𝒅𝒊𝒕❤️✨
 
-- [⏤‌〲Dᴇᴠɪʟ˹ᴀꜰᴋ˼](https://github.com/VARC9210) 
+  [⏤‌〲Dᴇᴠɪʟ˹ᴀꜰᴋ˼](https://github.com/VARC9210) 
 
 
   ## 𝑶𝒕𝒉𝒆𝒓 𝑪𝒓𝒆𝒅𝒊𝒕❤️✨
