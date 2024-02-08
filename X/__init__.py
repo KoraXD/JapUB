@@ -17,13 +17,13 @@ aiosession = ClientSession()
 if API_ID:
    API_ID = API_ID
 else:
-   print("ᴡᴀʀɴɪɴɢ: ᴀᴘɪ ɪᴅ ɴᴏᴛ ꜰᴏᴜɴᴅ ᴜꜱɪɴɢ ᴢᴀɪᴅ ᴀᴘɪ ⚡")
+   print("ᴡᴀʀɴɪɴɢ: ᴀᴘɪ ɪᴅ ɴᴏᴛ ꜰᴏᴜɴᴅ ᴜꜱɪɴɢ 𝐉𝐚𝐩𝐚𝐧𝐞𝐬𝐞 𝐗 𝐔𝐬𝐞𝐫𝐛𝐨𝐭 ᴀᴘɪ ⚡")
    API_ID = "6435225"
 
 if API_HASH:
    API_HASH = API_HASH
 else:
-   print("ᴡᴀʀɴɪɴɢ: ᴀᴘɪ ʜᴀꜱʜ ɴᴏᴛ ꜰᴏᴜɴᴅ ᴜꜱɪɴɢ ᴢᴀɪᴅ ᴀᴘɪ ⚡")   
+   print("ᴡᴀʀɴɪɴɢ: ᴀᴘɪ ʜᴀꜱʜ ɴᴏᴛ ꜰᴏᴜɴᴅ ᴜꜱɪɴɢ 𝐉𝐚𝐩𝐚𝐧𝐞𝐬𝐞 𝐗 𝐔𝐬𝐞𝐫𝐛𝐨𝐭 ᴀᴘɪ ⚡")   
    API_HASH = "4e984ea35f854762dcde906dce426c2d"
 
 if not BOT_TOKEN:
