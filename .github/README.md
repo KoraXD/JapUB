@@ -111,6 +111,13 @@ and you ended up in a Finale Battle with Telegram and at the end
 
 <p align="center"><a href="https://t.me/Japanese_Userbot"><img src="https://img.shields.io/badge/𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦-𝐔𝐩𝐝𝐚𝐭𝐞𝐬-F70000?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
 
+## 𝑻𝒉𝒂𝒏𝒌𝒔 𝑭𝒐𝒓 𝒀𝒐𝒖𝒕 𝑰𝒅𝒆𝒂𝒔 ❤️✨
+
+ <h3 align="center"> ─「 ᴄʀᴇᴅɪᴛs 」─
+     
+➻ <p align="center"> ➻ [{🇮🇳}𝗕ooo™ ⁪⁬ᴀꜰᴋ ᴏꜰꜰʟɪɴᴇ](https://github.com/ITZ-ZAID)
+
+
 ## 𝑺𝒑𝒆𝒄𝒊𝒂𝒍 𝑪𝒓𝒆𝒅𝒊𝒕❤️✨
 
  <h3 align="center"> ─「 ᴄʀᴇᴅɪᴛs 」─
