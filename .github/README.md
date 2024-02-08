@@ -16,13 +16,6 @@
 
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=Japanese-Userbot&repo=Japanese-X-Userbot&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=chartreuse-dark)
 
-## 𝑹𝒆𝒒𝒖𝒊𝒓𝒆𝒎𝒆𝒏𝒕𝒔
-
-- *PyroGram Session*
-- *Dummy account*
-- *Python 3.8+ or 3.7*
-- *Mongo Db*
-
 ## 𝑽𝒂𝒓𝒊𝒂𝒃𝒍𝒆𝒔
 - `APP_ID`  =  𝑮𝒆𝒕 𝒕𝒉𝒊𝒔 𝒗𝒂𝒍𝒖𝒆 𝒇𝒓𝒐𝒎 [my.telegram.org](https://my.telegram.org/auth)
 - `API_HASH`  =  𝑮𝒆𝒕 𝒕𝒉𝒊𝒔 𝒗𝒂𝒍𝒖𝒆 𝒇𝒓𝒐𝒎 [my.telegram.org](https://my.telegram.org/auth)
@@ -40,11 +33,7 @@
 
 <p align="center"><a href="https://replit.com/@nobitaaxd99/Japanese-X-Userbot#main.py"> <img src="https://img.shields.io/badge/String%20Session-black?style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
 
-## 𝑫𝒆𝒑𝒍𝒐𝒚𝒎𝒆𝒏𝒕
-
-ᴛᴏ ʙᴇ ꜱᴀꜰᴇ ꜰᴏʀᴋ ᴛʜɪꜱ ʀᴇᴘᴏ ᴀɴᴅ ᴛʜᴇɴ ᴘʀᴇꜱꜱ ᴅᴇᴘʟᴏʏ ʙᴜᴛᴛᴏɴ ꜰʀᴏᴍ ᴛʜᴇ ꜰᴏʀᴋᴇᴅ ʀᴇᴘᴏ
-
-ꜰᴏʀᴋ ᴅᴇᴘʟᴏʏ ɪꜱ ʜɪɢʜʟʏ ʀᴇᴄᴏᴍᴍᴇɴᴅᴇᴅ
+## 𝑫𝒆𝒑𝒍𝒐𝒚 𝑻𝒐 𝑯𝒆𝒓𝒐𝒌𝒖
 
 <p align="center"><a href="http://dashboard.heroku.com/new?template=https://github.com/Japanese-Userbot/Japanese-X-Userbot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-purple?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
