@@ -44,10 +44,7 @@
             "description": "Add the Heroku app name here. Required for updates.",
             "required": true
 
-            },
-        "HEROKU_KEY": {
-            "description": "Heroku API key, get it from 'https://dashboard.heroku.com/account. Required for updates.",
-            "required": true
+            
             
         
             },
