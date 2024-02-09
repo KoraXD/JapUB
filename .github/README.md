@@ -17,7 +17,7 @@
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=Japanese-Userbot&repo=Japanese-X-Userbot&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=chartreuse-dark)
 
 ## 𝑽𝒂𝒓𝒊𝒂𝒃𝒍𝒆𝒔
-- `APP_ID`  =  𝑮𝒆𝒕 𝒕𝒉𝒊𝒔 𝒗𝒂𝒍𝒖𝒆 𝒇𝒓𝒐𝒎 [my.telegram.org](https://my.telegram.org/auth)
+- `API_ID`  =  𝑮𝒆𝒕 𝒕𝒉𝒊𝒔 𝒗𝒂𝒍𝒖𝒆 𝒇𝒓𝒐𝒎 [my.telegram.org](https://my.telegram.org/auth)
 - `API_HASH`  =  𝑮𝒆𝒕 𝒕𝒉𝒊𝒔 𝒗𝒂𝒍𝒖𝒆 𝒇𝒓𝒐𝒎 [my.telegram.org](https://my.telegram.org/auth)
 - `STRING_SESSION1` = 𝑮𝒆𝒕 𝒕𝒉𝒊𝒔 𝒕𝒆𝒍𝒆𝒕𝒉𝒐𝒏 𝒔𝒕𝒓𝒊𝒏𝒈 𝒔𝒆𝒔𝒔𝒊𝒐𝒏 𝒇𝒓𝒐𝒎 [ᴅᴇᴠɪʟꜱᴇꜱꜱɪᴏɴɢᴇɴᴇʀᴀᴛᴏʀ_ʙᴏᴛ](https://t.me/DevilSessionGenerator_Bot) or [𝑹𝒖𝒏 𝒐𝒏 𝑹𝒆𝒑𝒍𝒊𝒕](https://replit.com/@nobitaaxd99/Japanese-X-Userbot#main.py)
 - `BOT_TOKEN`  =  𝑴𝒂𝒌𝒆 𝑨 𝑩𝒐𝒕 𝑭𝒓𝒐𝒎 [@BotFather](https://t.me/botfather) 𝒂𝒏𝒅 𝒑𝒂𝒔𝒕𝒆 𝒊𝒕'𝒔 𝒕𝒐𝒌𝒆𝒏.
