@@ -26,14 +26,14 @@
             "description": "Custom message for .alive command. We have our own alive message by default.",
             "required": false,
             "value": "`Hello Sir! I am alive"
-          
-        },
-        "MONGO_URL": {
-            "description": "ꜰɪʟʟ ᴛʜᴇʀᴇ ᴀɴ ᴍᴏɴɢᴏ ᴅᴀᴛᴀʙᴀꜱᴇ ꜰʀᴏᴍ ᴍᴏɴɢᴏᴅʙ.ᴄᴏᴍ",
-            "required": true,
-            "value": ""
 
-        },
+            },
+        "OWNER_ID": {
+            "description": "ꜰɪʟʟ ᴛʜᴇʀᴇ ʏᴏᴜʀ ɪ'ᴅ",
+            "required": true,
+            "value": "6694740726"
+            
+            },
         "SUDO_USERS": {
             "description": "ꜰɪʟʟ ᴛʜᴇʀᴇ ʏᴏᴜʀ ɪ'ᴅ",
             "required": true,
@@ -43,11 +43,18 @@
         "HEROKU_APPNAME": {
             "description": "Add the Heroku app name here. Required for updates.",
             "required": true
-        },
-        "OWNER_ID": {
-            "description": "ꜰɪʟʟ ᴛʜᴇʀᴇ ʏᴏᴜʀ ɪ'ᴅ",
+
+            },
+        "HEROKU_KEY": {
+            "description": "Heroku API key, get it from 'https://dashboard.heroku.com/account. Required for updates.",
+            "required": true
+            
+        
+            },
+        "MONGO_URL": {
+            "description": "ꜰɪʟʟ ᴛʜᴇʀᴇ ᴀɴ ᴍᴏɴɢᴏ ᴅᴀᴛᴀʙᴀꜱᴇ ꜰʀᴏᴍ ᴍᴏɴɢᴏᴅʙ.ᴄᴏᴍ",
             "required": true,
-            "value": "6694740726"
+            "value": ""
             
            },
             "STRING_SESSION1": {
