@@ -14,6 +14,12 @@
             "description": "ꜰɪʟʟ ᴛʜᴇʀᴇ ᴀɴ ᴍᴏɴɢᴏ ᴅᴀᴛᴀʙᴀꜱᴇ ꜰʀᴏᴍ ᴍᴏɴɢᴏᴅʙ.ᴄᴏᴍ",
             "required": true,
             "value": ""
+
+            },
+        "ALIVE_MSG": {
+            "description": "Custom message for .alive command. We have our own alive message by default.",
+            "required": false,
+            "value": "`Hello Sir! I am alive"
         },
         "SUDO_USERS": {
             "description": "ꜰɪʟʟ ᴛʜᴇʀᴇ ʏᴏᴜʀ ɪ'ᴅ",
