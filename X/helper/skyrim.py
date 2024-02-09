@@ -5,7 +5,7 @@ from PIL import Image, ImageDraw, ImageFont
 
 class SkyrimStatusMeme:
     font = ImageFont.truetype("userbot/fonts/impact.ttf", 60)
-    background = Image.open("userbot/images/skyrim_background.png", "r")
+    background = Image.open("X/images/skyrim_background.png", "r")
     finalText = ""
     finalSize = [300, 200]
     imgx = 300
