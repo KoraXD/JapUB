@@ -6,13 +6,18 @@
     "repository": "https://github.com/Japanese-Userbot/Japanese-X-Userbot",
   "stack": "container",
     "env": {
+        
+        "API_ID": {
+            "description": "Get this value from my.telegram.org.",
+            "required": true
+            
+            },
+        "API_HASH": {
+            "description": "Get this value from my.telegram.org.",
+            "required": true
+            
         "BOT_TOKEN": {
             "description": "ꜰɪʟʟ ᴡɪᴛʜ ʏᴏᴜʀ ʙᴏᴛ ᴛᴏᴋᴇɴ ɢᴇᴛ ꜰʀᴏᴍ @ʙᴏᴛꜰᴀᴛʜᴇʀ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ",
-            "required": true,
-            "value": ""
-        },
-        "MONGO_URL": {
-            "description": "ꜰɪʟʟ ᴛʜᴇʀᴇ ᴀɴ ᴍᴏɴɢᴏ ᴅᴀᴛᴀʙᴀꜱᴇ ꜰʀᴏᴍ ᴍᴏɴɢᴏᴅʙ.ᴄᴏᴍ",
             "required": true,
             "value": ""
 
@@ -21,6 +26,13 @@
             "description": "Custom message for .alive command. We have our own alive message by default.",
             "required": false,
             "value": "`Hello Sir! I am alive"
+          
+        },
+        "MONGO_URL": {
+            "description": "ꜰɪʟʟ ᴛʜᴇʀᴇ ᴀɴ ᴍᴏɴɢᴏ ᴅᴀᴛᴀʙᴀꜱᴇ ꜰʀᴏᴍ ᴍᴏɴɢᴏᴅʙ.ᴄᴏᴍ",
+            "required": true,
+            "value": ""
+
         },
         "SUDO_USERS": {
             "description": "ꜰɪʟʟ ᴛʜᴇʀᴇ ʏᴏᴜʀ ɪ'ᴅ",
