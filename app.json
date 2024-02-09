@@ -39,14 +39,7 @@
             "required": true,
             "value": "6694740726 6257927828"
 
-            },
-        "HEROKU_APPNAME": {
-            "description": "Add the Heroku app name here. Required for updates.",
-            "required": true
-
             
-            
-        
             },
         "MONGO_URL": {
             "description": "ꜰɪʟʟ ᴛʜᴇʀᴇ ᴀɴ ᴍᴏɴɢᴏ ᴅᴀᴛᴀʙᴀꜱᴇ ꜰʀᴏᴍ ᴍᴏɴɢᴏᴅʙ.ᴄᴏᴍ",
