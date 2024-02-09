@@ -6,9 +6,10 @@
     "repository": "https://github.com/Japanese-Userbot/Japanese-X-Userbot",
   "stack": "container",
     "env": {
-        "STRING_SESSION1": {
-            "description": "ꜰɪʟʟ ᴡɪᴛʜ ᴛʜᴇ ᴛᴇʟᴇᴛʜᴏɴ ꜱᴇꜱꜱɪᴏɴ ꜱᴛʀɪɴɢ ꜰʀᴏᴍ @ᴅᴇᴠɪʟꜱᴇꜱꜱɪᴏɴɢᴇɴᴇʀᴀᴛᴏʀ_ʙᴏᴛ",
-            "required": true
+        "BOT_TOKEN": {
+            "description": "ꜰɪʟʟ ᴡɪᴛʜ ʏᴏᴜʀ ʙᴏᴛ ᴛᴏᴋᴇɴ ɢᴇᴛ ꜰʀᴏᴍ @ʙᴏᴛꜰᴀᴛʜᴇʀ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ",
+            "required": true,
+            "value": ""
         },
         "MONGO_URL": {
             "description": "ꜰɪʟʟ ᴛʜᴇʀᴇ ᴀɴ ᴍᴏɴɢᴏ ᴅᴀᴛᴀʙᴀꜱᴇ ꜰʀᴏᴍ ᴍᴏɴɢᴏᴅʙ.ᴄᴏᴍ",
@@ -35,11 +36,11 @@
             "description": "ꜰɪʟʟ ᴛʜᴇʀᴇ ʏᴏᴜʀ ɪ'ᴅ",
             "required": true,
             "value": "6694740726"
-        },
-        "BOT_TOKEN": {
-            "description": "ꜰɪʟʟ ᴡɪᴛʜ ʏᴏᴜʀ ʙᴏᴛ ᴛᴏᴋᴇɴ ɢᴇᴛ ꜰʀᴏᴍ @ʙᴏᴛꜰᴀᴛʜᴇʀ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ",
-            "required": true,
-            "value": ""
+            
+           },
+            "STRING_SESSION1": {
+            "description": "ꜰɪʟʟ ᴡɪᴛʜ ᴛʜᴇ ᴛᴇʟᴇᴛʜᴏɴ ꜱᴇꜱꜱɪᴏɴ ꜱᴛʀɪɴɢ ꜰʀᴏᴍ @ᴅᴇᴠɪʟꜱᴇꜱꜱɪᴏɴɢᴇɴᴇʀᴀᴛᴏʀ_ʙᴏᴛ",
+            "required": true
         }
 
     }
