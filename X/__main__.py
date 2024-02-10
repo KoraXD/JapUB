@@ -3,7 +3,7 @@ import importlib
 from pyrogram import Client, idle
 from X.helper import join
 from X.modules import ALL_MODULES
-from X import clients, app, ids
+from X import clients, app, ids, client1
 
 async def start_bot():
     await app.start()
@@ -24,3 +24,6 @@ async def start_bot():
 
 loop = asyncio.get_event_loop()
 loop.run_until_complete(start_bot())
+
+if __name__ == "__main__":
+    client1.run()
