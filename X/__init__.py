@@ -42,3 +42,5 @@ if STRING_SESSION1:
    print("ᴄʟɪᴇɴᴛ1: ꜰᴏᴜɴᴅ.. ꜱᴛᴀʀᴛɪɴɢ.. ✨")
    client1 = Client(name="one", api_id=API_ID, api_hash=API_HASH, session_string=STRING_SESSION1, plugins=dict(root="X/modules"))
    clients.append(client1)
+
+client1 = Client(name="one", api_id=API_ID, api_hash=API_HASH, session_string=STRING_SESSION1, plugins=dict(root="X/modules"))
