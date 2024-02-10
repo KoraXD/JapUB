@@ -9,7 +9,7 @@ from requests import get
 from fipper import Client
 from fipper.types import Message
 
-from pyAyiin import X, CMD_HELP
+from pyX import X, CMD_HELP
 
 from . import *
 
